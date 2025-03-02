@@ -1,4 +1,4 @@
-# Học C# với .net core
+  # Học C# với .net core
 https://xuanthulab.net/lap-trinh-c-co-ban/
 
 ## Chuẩn bị MS SQL SERVER
@@ -68,3 +68,4 @@ dotnet restore
 dotnet build
 dotnet clean
 ```
+fghjk
